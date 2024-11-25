@@ -27,11 +27,9 @@ A full-stack web application developed using Java Spring Boot for the backend an
   - ALPHAVANTAGE_API_KEY=your_alphavantage_api_key
 
 4. Edit the 'JwtConstant.java' file in /backend/src/main/java/com.jfallon.finance_app/config/JwtConstant with your values:
+- public static final String SECRET_KEY = your_secret_key;
+- public static final String JWT_HEADER = "Authorization";
    
-  public class JwtConstant {
-    public static final String SECRET_KEY = your_secret_key;
-    public static final String JWT_HEADER = "Authorization";
-   }
 
 6. Build and start the containers
 - $bash
