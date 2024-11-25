@@ -10,13 +10,13 @@ A full-stack web application developed using Java Spring Boot for the backend an
 ## Installation Steps
 
 1. Clone the repository
-- bash
-- git clone https://github.com/jackfallon/PersonalFinance.git
-- cd PersonalFinance
+- $bash
+- $git clone https://github.com/jackfallon/PersonalFinance.git
+- $cd PersonalFinance
 
 2. Create environment file:
-- bash
-- cp .env.template .env
+- $bash
+- $cp .env.template .env
   
 3. Edit the `.env` file with your values:
 - Get an AlphaVantage API key from https://www.alphavantage.co/
