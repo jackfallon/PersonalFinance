@@ -6,6 +6,7 @@ Java Spring Boot, React, JavaScript, PostgreSQL, Docker, TailwindCSS
 
 # Screenshots
 <img width="960" alt="finance-app-dashboard" src="https://github.com/user-attachments/assets/66e2e03b-a9ba-4230-b417-3c76080b0758">
+<p align="center">Main Home Dashboard</p>
 
 
 
