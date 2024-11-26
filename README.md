@@ -1,5 +1,13 @@
 # PersonalFinance
-A full-stack web application developed using Java Spring Boot for the backend and React for the frontend
+A full-stack web application developed using Java Spring Boot for the backend and React for the frontend. This app allows users to track their investments, expenses, income, savings, and spending. 
+
+# Technologies Used
+Java Spring Boot, React, JavaScript, PostgreSQL, Docker, TailwindCSS
+
+# Screenshots
+<img width="960" alt="finance-app-dashboard" src="https://github.com/user-attachments/assets/66e2e03b-a9ba-4230-b417-3c76080b0758">
+
+
 
 # Setup Instructions
 
