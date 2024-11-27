@@ -40,11 +40,11 @@ Java Spring Boot, React, JavaScript, PostgreSQL, Docker, TailwindCSS
 - public static final String JWT_HEADER = "Authorization";
    
 
-6. Build and start the containers
+5. Build and start the containers
 - $bash
 - $docker-compose up -d
 
-7. Access the application
+6. Access the application
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:5454
 
