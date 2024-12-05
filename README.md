@@ -5,9 +5,13 @@ A full-stack web application developed using Java Spring Boot for the backend an
 Java Spring Boot, React, JavaScript, PostgreSQL, Docker, TailwindCSS
 
 # Screenshots
-<p align="center">Main Home Dashbo
+<p align="center">Main Home Dashboard</p>
 <img width="1224" alt="finance-app-dash" src="https://github.com/user-attachments/assets/41484b52-862e-4b8e-a476-6fb2a2f41ad6">
-ard</p>
+<p align="center">Portfolio Page</p>
+
+<p align="center">Balance Page</p>
+<img width="1073" alt="finance-app-balance" src="https://github.com/user-attachments/assets/87adeab6-f920-4a33-a4fe-b020dff2193b">
+
 
 
 
