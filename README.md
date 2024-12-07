@@ -6,9 +6,9 @@ Java Spring Boot, React, JavaScript, PostgreSQL, Docker, TailwindCSS
 
 # Screenshots
 <p align="center">Main Home Dashboard</p>
-<img width="1224" alt="finance-app-dash" src="https://github.com/user-attachments/assets/41484b52-862e-4b8e-a476-6fb2a2f41ad6">
+<img width="961" alt="finance-app-home" src="https://github.com/user-attachments/assets/6f08c463-fd04-4776-8a04-d0d0c7927fe1">
 <p align="center">Portfolio Page</p>
-
+<img width="1104" alt="finance-app-portfolio" src="https://github.com/user-attachments/assets/f3ab294c-5a19-467a-8edf-71fcf1427057">
 <p align="center">Balance Page</p>
 <img width="1073" alt="finance-app-balance" src="https://github.com/user-attachments/assets/87adeab6-f920-4a33-a4fe-b020dff2193b">
 
